@@ -1,0 +1,22 @@
+{
+  "name": "@sirubot/utils",
+  "version": "0.1.0",
+  "description": "utils library for sirubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiruBOT/utils.git"
+  },
+  "author": "Sannoob#3144",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiruBOT/utils/issues"
+  },
+  "homepage": "https://github.com/SiruBOT/utils#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
